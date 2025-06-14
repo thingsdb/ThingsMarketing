@@ -9,3 +9,17 @@ Feel free to create issues for any marketing related ideas, venues, blogposts, e
 Our 3D style logo is generated using AI, information about the prompt used can be found [here](./artwork/avatar/avatar_ai_prompt.md).
 
 Most of our artwork is editted using [Canva](https://www.canva.com/), acces tou our Canva project is available on request.
+
+
+## Blogpost generation
+
+### NotebookLM
+
+#### Sources
+
+- ThingsDB book
+- [ThingsDB GitHub repository](https://github.com/thingsdb/ThingsDB)
+
+#### Prompt
+
+Create a series of thought leadership LinkedIn posts why developers should look into thingsDB use an informal tone of voice.
